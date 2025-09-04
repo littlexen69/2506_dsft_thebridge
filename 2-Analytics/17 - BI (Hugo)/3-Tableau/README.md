@@ -4,6 +4,7 @@ Entiende el proceso completo de creación de dashboards en BI, desde la selecci�
 
 Un buen dashboard de BI no solo recopila datos, sino que los presenta de manera que faciliten la toma de decisiones. Al seguir estas pautas, podrás crear dashboards efectivos, visualmente atractivos y centrados en los KPIs relevantes para tu negocio.
 
+https://www.youtube.com/watch?v=830NHbvbo5g
 ---
 
 ## 1. **Comprender el Propósito del Dashboard**
